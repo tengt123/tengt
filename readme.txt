@@ -10,6 +10,6 @@ Git is free software.
 
 creating new branch is fast
 
-
 test conflict
 
+conflict
