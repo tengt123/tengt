@@ -9,3 +9,5 @@ Git is free software.
 222222222222222222222222
 
 creating new branch is fast
+
+conflict
